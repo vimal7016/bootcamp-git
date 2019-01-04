@@ -1,5 +1,4 @@
-cat1
-cat2
+cat1.c
 meow
 roar
 lion
@@ -9,3 +8,4 @@ jaguar
 cheetah
 kitty
 hello
+cat2
