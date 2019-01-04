@@ -1,4 +1,5 @@
-cat1.c
+cat1
+cat2
 meow
 roar
 lion
